@@ -1,3 +1,3 @@
 # API-REST
 
-Crie essa API baseada em cadastro de empresas em regiõeos do brasil
+Crie essa API de cadastro de empresas em regiõeos do brasil
